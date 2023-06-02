@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.efrensalado</groupId>
-	<artifactId>cotiza_credito</artifactId>
+	<artifactId>cotizacion-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cotiza_credito</name>
 	<description>Prueba tecnica</description>

@@ -3,4 +3,4 @@ spring:
     name: producto-service
   cloud:
     enabled: true
-    uri: http://localhost:8083
+    uri: http://localhost:8081
