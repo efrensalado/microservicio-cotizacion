@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.efrensalado</groupId>
-	<artifactId>cotiza_credito</artifactId>
+	<artifactId>producto-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cotiza_credito</name>
+	<name>producto-service</name>
 	<description>Prueba tecnica</description>
 	<properties>
 		<java.version>17</java.version>

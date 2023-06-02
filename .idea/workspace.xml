@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07bfccd0-e9ea-4a7d-9210-cbcd06e95c58" name="Changes" comment="Cambios de puertos" />
+    <list default="true" id="07bfccd0-e9ea-4a7d-9210-cbcd06e95c58" name="Changes" comment="Cambios de puertos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/producto-service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/IntelliJ/projects/config-service",
+    "last_opened_file_path": "D:/Projects/IntelliJ/projects/cotizacion-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,11 +49,11 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "57179c802d78cd7b4f171de699e26ff6",
+    "spring.configuration.checksum": "f990119d23a3e50fd6797784921f1db6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in cotiza_credito (1)">
+  <component name="RunManager" selected="Spring Boot.CotizaCreditoApplication">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -98,7 +101,7 @@
       </method>
     </configuration>
     <configuration name="CotizaCreditoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="cotiza_credito (1)" />
+      <module name="cotiza_credito" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.efrensalado.cotiza_credito.CotizaCreditoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,6 +124,7 @@
       <updated>1685659450187</updated>
       <workItem from="1685659452179" duration="422000" />
       <workItem from="1685666776251" duration="3645000" />
+      <workItem from="1685673414434" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="Eliminacion de dependecias duplicadas y correción de cadena de conexión">
       <created>1685666949083</created>
